@@ -10,4 +10,5 @@ I don’t know when or why Apple started to create tables like these, fill them 
 - Just take a look at your table code, its delegate and data source – do you really like what you see?
 
 + Instead, try using a view or a scroll view – and you won’t have to deal with tables, delegates and data sources.
++ Or, try using pageinated views which create a nice user experience – for instance when a user has to register or something similar where you can keep things simple & clean.
 
