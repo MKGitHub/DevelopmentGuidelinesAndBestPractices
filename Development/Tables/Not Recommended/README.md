@@ -9,6 +9,7 @@ I don’t know when or why Apple started to create tables like these, fill them 
 - You have to take care of cell rows, heights, sections, headers, footers etc.
 - Just take a look at your table code, its delegate and data source – do you really like what you see?
 
-+ Instead, try using a view or a scroll view – and you won’t have to deal with tables, delegates and data sources.
-+ Or, try using paginated views which create a nice user experience – for instance when a user has to register or something similar where you can keep things simple & clean.
++ Instead, try to use a view or a scroll view – and you won’t have to deal with tables, delegates and data sources.
++ Just put out the labels, buttons, text fields and switches… BOOM! You are good to go!
++ Or, try using paginated views which create a nice user experience – for instance when a user has to register or something similar where you can keep things simple & clean page by page.
 
