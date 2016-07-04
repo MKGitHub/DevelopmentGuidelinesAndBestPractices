@@ -1,4 +1,4 @@
-In your application, allow the user to choose which menu bar icon they would like to represent your app.
+In your application, allow the user to choose which menu bar icon **they** would like to represent your app.
 
 See the example screenshot from Menu Eclipse.app.
 
